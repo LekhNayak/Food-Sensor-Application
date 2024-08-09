@@ -174,12 +174,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Lekh Nayak - lekh.nayak23@spit.ac.in
-Arjun Pimpale - arjun.pimpale23@spit.ac.in
-Aishwarya Mhatre - aishwarya.mhatre23@spit.ac.in
-Siddarth Potdar - siddarth.potdar23@spit.ac.in
-Rohan Patil - rohan.patil23@spit.ac.in
 
-Project Link: [https://github.com/ArjunPimpale/Food-Sensor-](https://github.com/ArjunPimpale/Food-Sensor-)
+Project Link: [https://github.com/ArjunPimpale/Food-Sensor-Appplication](https://github.com/LekhNayak/Food-Sensor-Application)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -199,7 +195,5 @@ Project Link: [https://github.com/ArjunPimpale/Food-Sensor-](https://github.com/
 [license-shield]: https://img.shields.io/github/license/CYCLOP5/Video-To-Spectrogram.svg?style=for-the-badge
 [license-url]: https://github.com/CYCLOP5/Video-To-Spectrogram/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/vnjhaveri
+[linkedin-url]: https://www.linkedin.com/in/lekh-nayak-9428aa280/
 [product-screenshot]: images/screenshot.png
-[Python]: ![python-logo](https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png)
-[Python-url]:https://www.python.org/
