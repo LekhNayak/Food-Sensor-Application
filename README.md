@@ -173,9 +173,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Varun Jhaveri - varun.jhaveri23@spit.ac.in
+Lekh Nayak - lekh.nayak23@spit.ac.in
+Arjun Pimpale - arjun.pimpale23@spit.ac.in
+Aishwarya Mhatre - aishwarya.mhatre23@spit.ac.in
+Siddarth Potdar - siddarth.potdar23@spit.ac.in
+Rohan Patil - rohan.patil23@spit.ac.in
 
-Project Link: [https://github.com/CYCLOP5/Video-To-Spectrogram](https://github.com/CYCLOP5/Video-To-Spectrogram)
+Project Link: [https://github.com/ArjunPimpale/Food-Sensor-](https://github.com/ArjunPimpale/Food-Sensor-)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
